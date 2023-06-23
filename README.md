@@ -1,6 +1,6 @@
 # Codigos
 
-### **Esdras Almeida Ávila 
+### Esdras Almeida Ávila 
 
 #### *Estudante da [Universidade Federal de Ouro Preto (UFOP)](http://www.ufop.br).*
 
