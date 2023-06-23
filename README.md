@@ -1,3 +1,3 @@
 # Codigos
 
-*Estudante da Universidade Federal de Ouro Preto
+*Estudante da Universidade Federal de Ouro Preto*
